@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "19101794003",
+    "project_id": "grocery-e8106",
+    "storage_bucket": "grocery-e8106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19101794003:android:71f9c09e4c732eedf39e26",
+        "android_client_info": {
+          "package_name": "com.trainer.grocery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19101794003-3r02k756nt29r5g5fnp37osqiu307b9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trainer.grocery_app",
+            "certificate_hash": "16b20ede2195d394251ba78119f72195ae901e8c"
+          }
+        },
+        {
+          "client_id": "19101794003-5nhjitlcnqu55fin95rsl8uk9i2mdvsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZdwuApOkBl95dMbC8tSzB3lITbIWYu_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19101794003-5nhjitlcnqu55fin95rsl8uk9i2mdvsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
